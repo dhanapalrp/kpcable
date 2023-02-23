@@ -1,0 +1,65 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/NotoSerifTamil-Black.ttf",
+      "sha1": "be05c90b12331f922e14a3820203d2b03bc019b5"
+    },
+    {
+      "path": "assets/fonts/NotoSerifTamil-Bold.ttf",
+      "sha1": "1156e031abd4aa697de619758e33af9a6b59088f"
+    },
+    {
+      "path": "assets/fonts/NotoSerifTamil-ExtraBold.ttf",
+      "sha1": "bf6be18468fdf438a9a2547651bc9a481dbaef31"
+    },
+    {
+      "path": "assets/fonts/NotoSerifTamil-ExtraLight.ttf",
+      "sha1": "0b69f095925fe324b0a9f2a114c29137dfd60e54"
+    },
+    {
+      "path": "assets/fonts/NotoSerifTamil-Light.ttf",
+      "sha1": "efc3ec28d56a2eb4b076919eb283333643717398"
+    },
+    {
+      "path": "assets/fonts/NotoSerifTamil-Medium.ttf",
+      "sha1": "52a244b9d54e2b22411769140899c3390177e970"
+    },
+    {
+      "path": "assets/fonts/NotoSerifTamil-Regular.ttf",
+      "sha1": "fbc6785223fd66ddddf02a05cda85a404c02f939"
+    },
+    {
+      "path": "assets/fonts/NotoSerifTamil-SemiBold.ttf",
+      "sha1": "cc6ee35b20831dec236e5f7c5e29d18ed504b575"
+    },
+    {
+      "path": "assets/fonts/NotoSerifTamil-Thin.ttf",
+      "sha1": "21bc303adbb08a8aa1f2fbe88cfdfd53830d68c8"
+    },
+    {
+      "path": "assets/fonts/RobotoCondensed-Bold.ttf",
+      "sha1": "15e8faa21a00eb5b40d3837e16960a39d78fe45c"
+    },
+    {
+      "path": "assets/fonts/RobotoCondensed-BoldItalic.ttf",
+      "sha1": "2195d05ea6a9338a69929445e4ddf0a9650dfc12"
+    },
+    {
+      "path": "assets/fonts/RobotoCondensed-Italic.ttf",
+      "sha1": "56725c6d7698dcfee226424bb1f21565f23a0573"
+    },
+    {
+      "path": "assets/fonts/RobotoCondensed-Light.ttf",
+      "sha1": "124307ef220bd49e2c5a964b730e6403bf8a31ef"
+    },
+    {
+      "path": "assets/fonts/RobotoCondensed-LightItalic.ttf",
+      "sha1": "0b979a3ab679afa18c5f31995b78120398f2fdf5"
+    },
+    {
+      "path": "assets/fonts/RobotoCondensed-Regular.ttf",
+      "sha1": "e0d7acf2ca3dd0ff68f533797bb94b0580397e95"
+    }
+  ]
+}
